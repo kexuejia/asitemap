@@ -1,6 +1,6 @@
 # Asitemap - module for sitemap generation
 
-# Reqierements 
+# Reqirements 
 Prestashop 1.6, 1.7
 
 # Features
